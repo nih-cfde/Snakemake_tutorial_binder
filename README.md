@@ -6,4 +6,4 @@ Click the 'Launch binder' button to launch the binder environment:
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-snakemake-binder/stable-binder)
 
-
+(The binder points to the `stable-binder` branch)
