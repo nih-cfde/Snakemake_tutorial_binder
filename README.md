@@ -1,6 +1,6 @@
 # Snakemake tutorial
 
-This repository holds binder files for the introductory Snakemake tutorial on the [CFDE training resources website](https://cfde-training-and-engagement.readthedocs-hosted.com/en/latest/).
+This repository holds binder files for the introductory Snakemake tutorial on the [CFDE training resources website](https://training.nih-cfde.org/en/latest/Bioinformatics-Skills/Snakemake/).
 
 Click the 'Launch binder' button (in a **new** tab) to start the binder environment:
 
