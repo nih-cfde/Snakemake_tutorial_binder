@@ -10,4 +10,4 @@ Click the 'Launch binder' button (in a **new** tab) to start the binder environm
 
 - Terminal environment binder for Snakemake lesson. The binder points to the `stable-binder` branch.
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-snakemake-binder/rstudio-binder?filepath=rstudio)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/nih-cfde/training-snakemake-binder/rstudio-binder?urlpath=rstudio)
