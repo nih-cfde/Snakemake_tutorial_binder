@@ -1,3 +1,5 @@
+# Day 1
+
 # Shorten the command prompt
 echo "PS1='\w $ '" >> .bashrc
 
@@ -15,3 +17,5 @@ snakemake -p download_genome
 snakemake -p uncompress_genome
 snakemake -p index_genome_bwa
 snakemake -p map_reads
+
+# Day 2
